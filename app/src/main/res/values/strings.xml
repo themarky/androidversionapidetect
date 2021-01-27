@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">androidversiondetector</string>
+    <string name="btndetectdroid">Detect</string>
+</resources>
